@@ -1,4 +1,4 @@
-# ReduxReact Explained
+# ReduxExplained_CustomerDashboard
 
 **Redux** State Management explained using a simple Customer `add` and `remove` dashboard.
 
@@ -62,11 +62,3 @@
 - Centralized state management, making state predictable.
 - Easy debugging with tools like Redux DevTools.
 - Enhanced performance for large applications due to efficient state updates.
-
-```
-
-```
-
-```
-
-```
